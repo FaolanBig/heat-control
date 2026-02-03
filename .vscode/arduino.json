@@ -1,0 +1,5 @@
+{
+    "sketch": "heat-control.ino",
+    "output": "build",
+    "board": "arduino:avr:uno"
+}
